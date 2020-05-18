@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 fuck off man
+=======
+branch 1 testing testing
+>>>>>>> branch1
+
+keeping this
